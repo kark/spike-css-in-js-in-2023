@@ -13,9 +13,9 @@
 
 ## Observations / thesis
 
-- **runtime** CSS-in-JS became not recommended option by React 18 workgroup (`emotion` and `stiches` library maintainers are not active in the repos anymore)
-- **static** CSS-in-JS has also it's disadvantages
-- the industry has pivoted
+- **runtime** CSS-in-JS became not recommended option by React 18 workgroup (`emotion` and `stiches` library maintainers are not active in the repos anymore after the recomendation was published on 12.10.2022)
+- **static** CSS-in-JS has also its disadvantages
+- the industry clearly has pivoted
 
 ## Why not use css-in-js?
 
